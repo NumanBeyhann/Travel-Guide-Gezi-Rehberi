@@ -1,0 +1,12 @@
+C:\Users\NUMAN\Desktop\Yeni klasör\login_signup_forget_pw.exe
+C:\Users\NUMAN\Desktop\Yeni klasör\login_signup_forget_pw.dll
+C:\Users\NUMAN\Desktop\Yeni klasör\login_signup_forget_pw.deps.json
+C:\Users\NUMAN\Desktop\Yeni klasör\login_signup_forget_pw.runtimeconfig.json
+C:\Users\NUMAN\Desktop\Yeni klasör\login_signup_forget_pw.pdb
+C:\Users\NUMAN\Desktop\Yeni klasör\Newtonsoft.Json.dll
+C:\Users\NUMAN\Desktop\Yeni klasör\System.Data.SqlClient.dll
+C:\Users\NUMAN\Desktop\Yeni klasör\runtimes\win-arm64\native\sni.dll
+C:\Users\NUMAN\Desktop\Yeni klasör\runtimes\win-x64\native\sni.dll
+C:\Users\NUMAN\Desktop\Yeni klasör\runtimes\win-x86\native\sni.dll
+C:\Users\NUMAN\Desktop\Yeni klasör\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NUMAN\Desktop\Yeni klasör\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

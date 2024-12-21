@@ -1,0 +1,105 @@
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.csproj.AssemblyReference.cache
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\KullaniciUygulamasi.GirisForm.resources
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\KullaniciUygulamasi.KayitForm.resources
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\KullaniciUygulamasi.SifremiUnuttumForm.resources
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.csproj.GenerateResource.cache
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.AssemblyInfoInputs.cache
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.AssemblyInfo.cs
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.csproj.CoreCompileInputs.cache
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\login_signup_forget_pw.exe
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\login_signup_forget_pw.deps.json
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\login_signup_forget_pw.runtimeconfig.json
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\login_signup_forget_pw.dll
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\login_signup_forget_pw.pdb
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_si.1AFB2A30.Up2Date
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.dll
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\refint\login_signup_forget_pw.dll
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.pdb
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.genruntimeconfig.cache
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\ref\login_signup_forget_pw.dll
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\MesafeHesaplayici.Form1.resources
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.Menü1.resources
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\RestoranUygulamasi.CommentsForm.resources
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.Properties.Resources.resources
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\HavaDurumuUygulamasi.HavaDurumu.resources
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\RestoranUygulamasi.Restorantlar.resources
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\HavaDurumuUygulamasi.AdminPanel.resources
+C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\KullaniciUygulamasi.SifreSifirlama.resources
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\login_signup_forget_pw.exe
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\login_signup_forget_pw.deps.json
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\login_signup_forget_pw.runtimeconfig.json
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\login_signup_forget_pw.dll
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\login_signup_forget_pw.pdb
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.csproj.AssemblyReference.cache
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\HavaDurumuUygulamasi.AdminPanel.resources
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\KullaniciUygulamasi.GirisForm.resources
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\HavaDurumuUygulamasi.HavaDurumu.resources
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\KullaniciUygulamasi.KayitForm.resources
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\MesafeHesaplayici.Form1.resources
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.Menü1.resources
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.Properties.Resources.resources
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\RestoranUygulamasi.Restorantlar.resources
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\KullaniciUygulamasi.SifremiUnuttumForm.resources
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\KullaniciUygulamasi.SifreSifirlama.resources
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\RestoranUygulamasi.CommentsForm.resources
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.csproj.GenerateResource.cache
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.AssemblyInfoInputs.cache
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.AssemblyInfo.cs
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.csproj.CoreCompileInputs.cache
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_si.1AFB2A30.Up2Date
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.dll
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\refint\login_signup_forget_pw.dll
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.pdb
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.genruntimeconfig.cache
+C:\Users\NUMAN\Desktop\Yeni klasör (2)\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\ref\login_signup_forget_pw.dll
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\login_signup_forget_pw.exe
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\login_signup_forget_pw.deps.json
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\login_signup_forget_pw.runtimeconfig.json
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\login_signup_forget_pw.dll
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\login_signup_forget_pw.pdb
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.csproj.AssemblyReference.cache
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\HavaDurumuUygulamasi.AdminPanel.resources
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\KullaniciUygulamasi.GirisForm.resources
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\HavaDurumuUygulamasi.HavaDurumu.resources
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\KullaniciUygulamasi.KayitForm.resources
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\MesafeHesaplayici.Form1.resources
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.Menü1.resources
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.Properties.Resources.resources
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\RestoranUygulamasi.Restorantlar.resources
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\KullaniciUygulamasi.SifremiUnuttumForm.resources
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\KullaniciUygulamasi.SifreSifirlama.resources
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\RestoranUygulamasi.CommentsForm.resources
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.csproj.GenerateResource.cache
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.AssemblyInfoInputs.cache
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.AssemblyInfo.cs
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.csproj.CoreCompileInputs.cache
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_si.1AFB2A30.Up2Date
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.dll
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\refint\login_signup_forget_pw.dll
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.pdb
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\login_signup_forget_pw.genruntimeconfig.cache
+C:\Users\NUMAN\Desktop\SQL HATASI GR\login_signup_forget_pw\login_signup_forget_pw\obj\Debug\net8.0-windows\ref\login_signup_forget_pw.dll

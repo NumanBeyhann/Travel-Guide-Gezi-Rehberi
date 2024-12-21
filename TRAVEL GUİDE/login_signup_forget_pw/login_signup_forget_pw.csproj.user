@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\NUMAN\source\repos\login_signup_forget_pw\login_signup_forget_pw\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AdminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="havaDurumu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KayitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="menü.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menü1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Restorantlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SifremiUnuttumForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SifreSifirlama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="yorumSayfası.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
